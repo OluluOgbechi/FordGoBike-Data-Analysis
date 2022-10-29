@@ -1,4 +1,4 @@
-# (Ford GoBike Data Exploration)
+# San Francisco Bay Area Ford GoBike Data Exploration
 ## by (Naomi Ogbechi)
 
 ## Dataset
